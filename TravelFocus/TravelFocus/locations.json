@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Stari most",
+        "country": "Bosna i Hercegovina",
+        "description": "Stari most u Mostaru preko rijeke Neretve je UNESCO-ova svjetska baština koji je, kada je izgrađen, bio je najveća lučna konstrukcija na svijetu. Dao ga je sagraditi 1566. godine Sulejman Veličanstveni, a graditelj je bio Mimar Hajrudin. Srušen je tijekom Rata u Bosni i Hercegovini 1993. godine, a obnovljen nakon rata i ponovno otvoren za javnost 23. srpnja 2004. godine."
+        "more": "Stari most ima izražen luk širok 4 metra i 30 metara dug koji svojom visinom od 24 metra, na najvišem mjestu, dominira rijekom Neretvom. S oba kraja završava s jednim obrambenim tornjem, Hellebija na sjeveroistoku i Tara na jugozapadu, koji se zajedno nazivaju \"mostari\" (carinici na mostu po kojima je grad dobio ime). Luk je napravljen od lokalnog kamena \"tenelija\", a njegov oblik je proizvod mnogih nepravilnosti koje su nastale deformacijom intradosa (unutarnje linije luka).",
+        "latitude": 43.3373,
+        "longitude": 17.8150,
+        "heroPicture": "stari-most",
+        "pictures": ["photo2", "photo3", "photo4"],
+        "advisory": "We accept no liability for any visitors eaten alive by midges."
+    },
+    {
+        "id": 2,
+        "name": "Plitvička jezera",
+        "country": "Hrvatska",
+        "description": "Nacionalni park Plitvička jezera osobita je geološka i hidrogeološka krška pojava. Kompleks Plitvičkih jezera proglašen je nacionalnim parkom 8. travnja 1949. godine. To je najveći, najstariji i najposjećeniji hrvatski nacionalni park. Predstavlja šumovit planinski kraj u kojem se nalazi 16 jezera različite veličine, ispunjenima kristalnom modrozelenom vodom. Jezera dobivaju vodu od brojnih rječica i potoka, a međusobno su spojena kaskadama i slapovima.",
+        "more": "Sedrene barijere, koje su nastale u razdoblju od desetak tisuća godina, jedna su od temeljnih osobitosti Parka. Prostrani šumski kompleksi, iznimne prirodne ljepote jezera i slapova, bogatstvo flore i faune, planinski zrak, kontrasti jesenjih boja, šumske staze i drveni mostići i još mnogo toga dio su neponovljive cjeline koju je i UNESCO proglasio svjetskom prirodnom baštinom, 1979. godine, među prvima u svijetu. Park je podijeljen na užu i širu zonu prema stupnju zaštite. Na Plitvičkim jezerima nalazi se i izvor rijeke Korane, koja se napaja vodom iz jezera. Klima u nacionalnom parku je umjerena planinska.",
+        "latitude": 44.8654,
+        "longitude": 15.5820,
+        "heroPicture": "plitvicka-jezera",
+        "pictures": ["photo1", "photo2", "photo3", "photo4", "photo5", "photo6", "photo7", "photo8"],
+        "advisory": "We accept no liability for any visitors eaten alive by midges."
+    },
+    {
+        "id": 3,
+        "name": "Keopsova piramida",
+        "country": "Egipt",
+        "description": "Keopsova piramida, poznata i kao Velika piramida ili Kufuova piramida jedna je od tri glavne piramide u Gizi, a uz to je i najstarija i najveća piramida u Gizi, te najstarije i jedino preostalo svjetsko čudo antike. Procjenjuje se da je bila izgrađena u 26. stoljeću pr. Kr., što bi značilo da je stara već oko 4600 godina. Piramida je izgrađena kao grobnica faraona Kufua, kojeg su Grci zvali Keops. Vjeruje se da je arhitekt bio Hemiunu, Kufuov vezir. Oprečno poznatom vjerovanju, piramidu nisu izgradili robovi, već dobro opskrbljeni i zbrinuti radnici.",
+        "more": "Unatoč brojnim teorijama koje objašnjavaju proces izgradnje i dizajn piramida, proces gradnje je još uvijek predmet znanstvenih rasprava. Smatra se da je oko 100 000 ljudi gradilo Keopsovu piramidu punih 20 godina. Izgrađena je od oko 2 300 000 kamenih blokova, koji zajedno teže 6 milijuna tona. Svaki je kameni blok piramide visok 2 m, a neki su dugi 5 m. Danas se među egiptolozima smatra općim znanjem da robovi nisu izgradili piramide. Još se od starih Grka, preciznije od Herodota, vjerovalo da gradnju jesu vršili robovi. Takav se mit i komercijalizirao u hollywoodskim filmovima. Međutim, nedavna su otkrića u Gizi dokazala da su piramidu ipak izgradile tisuće plaćenih radnika",
+        "latitude": 29.9792,
+        "longitude": 29.9792,
+        "heroPicture": "keopsova-piramida",
+        "pictures": ["photo3", "photo4", "photo5", "photo6", "photo7"],
+        "advisory": "We accept no liability for any visitors eaten alive by midges."
+    },
+    {
+        "id": 4,
+        "name": "Park prirode Blidinje",
+        "country": "Bosna i Hercegovina",
+        "description": "Park prirode Blidinje se nalazi u Bosni i Hercegovini u području visokog gorja središnjih Dinarida, i obuhvaća područje planinskih masiva Čvrsnice i Vrana. savrseno mjesto za skijanje. Administrativno je u sastavu općina Posušje, Tomislavgrad, Prozor-Rama, Jablanica te grada Mostara. Zbog geomorfoloških osobina, bogatstva biljnog i životinjskog svijeta te prekrasnih krajobraza na dan 30. ožujka 1995. godine Blidinje je proglašeno parkom prirode. U jedinstvenom prirodnom arealu koji sadrži mnoge endemske vrste biljnog i životinjskog svijeta do danas je evidentirano oko 1500 biljnih vrsta, od čega više od 200 endemskih, subendemskih i reliktnih vrsta. U parku se nalazi najveće stanište endemskog bjelokorog bora munike.",
+        "more": "Do sada je evidentirana 91 vrsta dnevnih Leptira. Isto tako u parku su evidentirane 122 vrste ptica koje su svrstane u 32 porodice. Od toga rijetke i ugrožene kao; tetrijeb gluhan , suri orao, patuljasti orao , zmijar , crkavica i bjeloglavi sup. Na području parka gnijezde se još srebrenasti galeb , planinska ševa kao i brojne druge vrste.",
+        "latitude": 43.5865,
+        "longitude": 17.6215,
+        "heroPicture": "park-blidinje",
+        "pictures": ["photo4", "photo5", "photo6", "photo7", "photo8"],
+        "advisory": "We accept no liability for any visitors eaten alive by midges."
+    },
+    {
+        "id": 5,
+        "name": "Abu Simbel",
+        "country": "Egipt",
+        "description": "Abu Simbel je arheološki lokalitet u južnom Egiptu na lijevoj obali Nila, oko 240 km jugozapadno od Asuana; i istoimeno naselje s oko 2.400 stanovnika (2010.). Naziv mu je izveden od starijeg imena lokaliteta, Ipsambul, dok je izvorni staroegipatski naziv bio Meha. Najpoznatiji je po dva špiljska hrama Ramzesa II. iz 13. st. pr. Kr. (oko 1284. pr. Kr.) koji su 1979. godine upisani na UNESCO-ov popis mjesta svjetske baštine u Africi, zajedno sa svetištima do otoka File u blizini Asuana.",
+        "more": "Veliki hram Ramzesa II., veličine 25 x 30 m, ima monumentalni ulaz koji naglašavaju i uokviruju četiri kolosalne faraonove skulpture visoke 18 metara u vertikalnoj ikonografskoj perspektivi. Hram je isklesan unutar brda 60 metara a na njegovom unutrašnjem kraju sjede kipovi 4 boga. Hram je čudo egipatskog graditeljstva jer je njegova orijentacija tako savršeno izračunata da sunčeve zrake dvaput godišnje (22. veljače i 22. listopada) prodiru kroz cijeli hram do kipova 4 boga i osvijetle trojicu (Ramzesa II., Ra i Amona). Ovaj hram je stoljećima ležao zatrpan pijeskom dok ga 1813. godine nije otkrio talijanski pustolov Giovanni Battista Belzoni.",
+        "latitude": 22.3460,
+        "longitude": 31.6156,
+        "heroPicture": "abu-simbel",
+        "pictures": ["photo5", "photo6", "photo7", "photo8", "photo1", "photo2", "photo3", "photo4"],
+        "advisory": "We accept no liability for any visitors eaten alive by midges."
+    },
+    {
+        "id": 6,
+        "name": "Verona",
+        "country": "Italija",
+        "description": "Verona je glavni grad istoimene talijanske provincije (3.097 km², 814.300 stanovnika) i drugi najveći grad (poslije Venecije) u regiji Veneto, na rijeci Adige, u neposrednoj blizini jezera Lago di Garda, 100 km zapadno od Venecije. Najstariji tragovi naselja na području Verone potječu iz predrimskog razdoblja, a od 89. pr. Kr. tu je rimska kolonija. Od 49. pr. Kr. Verona je municipij koji prerasta u razvijeno kulturno i trgovačko središte. U 6. stoljeću Verona postaje glavni grad langobardskog kralja Alboina. God. 774. nalazi se u sastavu franačke države Karla Velikog, a za njegovih nasljednika (Karolinga) postiže novi gospodarski procvat.",
+        "more": "U Veroni se nalazi mnoštvo kulturno-povijesnih spomenika, osobito mnogo dobro očuvanih iz rimskog razdoblja. Grad i danas leži na sjecištu dvije glavne ulice izvornog rimskog vojnog kampa, Cardo i Decumanus, što se može vidjeti na zračnim fotografijama grada. Ipak najslavniji spomenik je Veronska Arena, treći po veličini očuvani rimski amfiteatar. Veronikom su se u srednjem vijeku nazivali stanovnici Verone. Ime dolazi iz latinskog Veronicu; Veronensis, veronski, Veronjani",
+        "latitude": 45.4384,
+        "longitude": 10.9916,
+        "heroPicture": "verona",
+        "pictures": ["photo6", "photo7", "photo8", "photo1", "photo2", "photo3", "photo4"],
+        "advisory": "We accept no liability for any visitors eaten alive by midges."
+    },
+    {
+        "id": 7,
+        "name": "Taj Mahal",
+        "country": "India",
+        "description": "Taj Mahal (čit. Tādž Mahal; hindski: ताज महल, urdski i perzijski: تاج محل) jest arhitektonski spomenik u Agri, gradu u indijskoj saveznoj državi Uttar Pradesh koji je izgradio mogulski vladar Džahan-šah kao spomen za svoju rano preminulu ženu Perzijanku Mumtaz Mahal. Taj Mahal smatra se vrhunskim ostvarenjem mogulske arhitekture, stila koji kombinira elemente perzijskih, indijskih i islamskih arhitektonskih stilova. Godine 1983. Taj Mahal postao je UNESCO-ov spomenik Svjetske baštine opisan kao „dragulj islamske umjetnosti u Indiji i jedan od univerzalno priznatih remek-djela svjetskog nasljeđa”.",
+        "more": "Iako je bijela kupola mramornog mauzoleja najpoznatija arhitektonska komponenta, Taj Mahal zapravo je integrirani kompleks struktura. Gradnja je počela oko 1632. i završena 1653. godine, a uključivala je tisuće umjetnika i radnika. Iranski arhitekt Ustad Ahmad Lahauri smatra se glavnim projektantom Taj Mahala. Godine 1631. Džahan-šah, vladar Mogulskog carstva u doba najvećeg uspona, bio je shrvan nakon što je njegova treća žena Mumtaz Mahal preminula prilikom porođaja njihovog četrnaestog djeteta, Gauhara Beguma. Neposredno prije smrti, Mumtaz Mahal zamolila je Džahan-šaha da joj izgradi mauzolej kakav svijet dotad još nije vidio. ",
+        "latitude": 27.1751,
+        "longitude": 78.0421,
+        "heroPicture": "taj-mahal",
+        "pictures": ["photo7", "photo8", "photo1", "photo2", "photo3", "photo4", "photo5", "photo6"],
+        "advisory": "We accept no liability for any visitors eaten alive by midges."
+    },
+    {
+        "id": 8,
+        "name": "New York"
+        "country": "Sjedinjene Američke Države",
+        "description": " New York je najnaseljeniji grad u Sjedinjenim Američkim Državama i središte metropolitanskog područja New York, jednog od najnaseljenijih metropolitanskih područja u svijetu. New York ima značajan utjecaj na svjetsku trgovinu, financije, medije, umjetnost, modu, istraživanje, tehnologiju, obrazovanje i zabavu. Kao grad u kojem se nalazi glavno sjedište Ujedinjenih Naroda,[6] New York je važan centar za međunarodne poslove i uglavnom se smatra kulturnim sjedištem svijeta.",
+        "more": "Kip slobode je spomenik na ušću rijeke Hudson u New Yorku. Izrađen u Parizu, bio je poklon Francuske kojim je obilježena stogodišnjica neovisnosti SAD-a 1886. godine. Od tada predstavlja pozdrav svim posjetiteljima i useljenicima pristiglima u SAD. Central Park je javni park u centru Manhattana, predah od gradskog betona. Trebalo je 16 godina da se park dovrši i više od 500 000 stabala. Most Brooklyn (engl. Brooklyn Bridge) je most koji premošćuje rijeku East River odnosno povezuje Brooklyn i Manhattan. Glavni projektant mosta bio je John Augustus Roebling, porijeklom Nijemac. Most ima ukupnu duljinu od 1825 m.",
+        "latitude": 40.7128,
+        "longitude": 74.0060,
+        "heroPicture": "new-york",
+        "pictures": ["photo8", "photo1", "photo2", "photo3", "photo4"],
+        "advisory": "We accept no liability for any visitors eaten alive by midges."
+    },
+    {
+        "id": 9,
+        "name": "Eiffelov toranj",
+        "country": "Francuska",
+        "description": " Eiffelov toranj (franc. La Tour Eiffel) je željezni toranj sagrađen na Champ de Mars (Marsova polja) pokraj rijeke Seine u Parizu. To je najviša građevina u Parizu i jedan od najprepoznatljivijih svjetskih simbola. Nazvan po svom dizajneru, inženjeru Alexandreu Gustavu Eiffelu, vrhunska je turistička atrakcija.",
+        "more": "Gustave Eiffel je upotrijebio nov način temeljenja, te je na kesonima (pneumatički način temeljenja) podigao, u obliku vitke piramide, četiri rešetkasta nosača do visine od 300 m, gdje ih je platformom spojio s kupolom. Sadrži 3 dijela. Vrh prvog dijela se nalazi na visini od 57, drugi je na 115, a treći na 274 metra. Pri najvećem vjetru vrh tornja oscilira samo 12 cm, ali zato visina varira čak do 8 cm, pri najvećim temperaturama. Toranj je visok 300 m, što je otprilike 75 katova. Uključujući antenu visine 20.75 m, građevina je visoka 320.75 m, što je otprilike 81 kat. U vrijeme njegove gradnje povodom Svjetske izložbe 1889., toranj je zamijenio Washingtonski spomenik, koji je do 1932. bio najviša građevina na svijetu. Eiffelov toranj je najviša građevina u Parizu",
+        "latitude": 48.8584,
+        "longitude": 2.2945,
+        "heroPicture": "eiffelov-toranj",
+        "pictures": ["photo1", "photo2", "photo3", "photo4", "photo5", "photo6", "photo7", "photo8"],
+        "advisory": "We accept no liability for any visitors eaten alive by midges."
+    },
+    {
+        "id": 10,
+        "name": "Kineski zid",
+        "country": "Kina",
+        "description": "Kineski zid predstavlja skupinu obrambenih zidova s tornjevima, u sjevernoj Kini. Svi zidovi zajedno dugački su 8.851,8 km,[1] (glavni dio 2450 km) što ih obujmom i masom čini najvećom građevinom na svijetu. Zid se sastoji od više međusobno povezanih ili nepovezanih dijelova različite starosti i načina gradnje. Zid je, vjerojatno, prvobitno bio još duži. Danas se pretpostavlja da je sezao do pustinje Lop Nor, oko 500 km dalje na zapad od danas najzapadnije poznate točke zida. To, međutim, još nije pouzdano potvrđeno.",
+        "more": "Jedan od kineskih naziva, \"zid dug 10.000 lia\", ne treba shvatiti doslovno. Li je stara kineska mjera za dužinu od oko 575,5 m, pa bi prema tome zid trebao biti dug 5.755 km. Međutim, u kineskom jeziku broj 10.000 znači beskrajno, beskonačno, pa prema tome, taj naziv bi, zapravo, značio otprilike \"nezamislivo dugi zid\". Kineski je zid 1987. godine upisan na UNESCO-ov popis svjetske baštine u Aziji i Oceaniji, a 2007. je izabran među sedam novih svjetskih čuda. Za izgradnju zida uglavnom je korišten kamen, a vezivni materijal rađen je od vapna i ljepljive riže",
+        "latitude": 40.4319,
+        "longitude": 40.4319,
+        "heroPicture": "kineski-zid",
+        "pictures": ["photo2", "photo3", "photo4", "photo5", "photo6", "photo7", "photo8", "photo1"],
+        "advisory": "We accept no liability for any visitors eaten alive by midges."
+    },
+]
